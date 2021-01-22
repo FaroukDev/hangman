@@ -1,0 +1,10 @@
+README.md
+setup.py
+pendu/__init__.py
+pendu/hang.py
+pendu/hangman.py
+pendu.egg-info/PKG-INFO
+pendu.egg-info/SOURCES.txt
+pendu.egg-info/dependency_links.txt
+pendu.egg-info/entry_points.txt
+pendu.egg-info/top_level.txt
